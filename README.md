@@ -41,3 +41,6 @@ StopwatchGUI/
 ## 👨‍💻 Разработчик
 - Шаповалов Глеб Андреевич
 - Группа: 1-ИАИТ-24ИАИТ-109
+
+## 🌐 Онлайн-демонстрация
+[Открыть GitHub Pages]( https://glebsds.github.io/StopwatchGUI/)
